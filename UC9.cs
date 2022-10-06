@@ -1,7 +1,7 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
-namespace UC9
+namespace UC14
 {
     public class CalCu
     {
@@ -12,8 +12,8 @@ namespace UC9
         public CalCu(String company, int emprateperhr, int noofworkingdays, int maxhrinmonth)
         {
             this.company = company;
-            this.emprateperhr = emprateperhr;
-            this.noofworkingdays = noofworkingdays;
+            this.emprateperhr = emprateperhr;   
+            this.noofworkingdays = noofworkingdays; 
             this.maxhrinmonth = maxhrinmonth;
         }
 
