@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace UC14
+namespace UC9
 {
     public class CalCu
     {
